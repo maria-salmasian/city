@@ -1,0 +1,35 @@
+{
+  "name": "city",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maria-salmasian/city.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maria-salmasian/city/issues"
+  },
+  "homepage": "https://github.com/maria-salmasian/city#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "express": "^4.17.3",
+    "express-async-handler": "^1.2.0",
+    "mongoose": "^6.2.9"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-spies": "^1.0.0",
+    "faker": "^4.1.0",
+    "mocha": "^6.2.1",
+    "nodemon": "^2.0.15",
+    "rewire": "^6.0.0",
+    "sinon": "^13.0.1",
+    "sinon-chai": "^3.7.0"
+  }
+}
